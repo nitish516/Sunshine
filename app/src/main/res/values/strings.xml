@@ -9,6 +9,7 @@
     <string name="pref_pin_default" translatable="false">127021</string>
     <string name="pref_pin_key" translatable="false">pin</string>
     <string name="pref_unit_label" >Temperature Unit</string>
+    <string name="open_weather_maps_app_id">dbc11cff1089ac46aaa3a0e87b0e27c2</string>
 
     <string name="pref_title_system_sync_settings">System sync settings</string>
 

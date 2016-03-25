@@ -32,6 +32,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.nitish.sunshine.MainActivity" />
         </activity>
+
+        <provider
+            android:authorities="com.example.nitish.sunshine.app"
+            android:name=".data.WeatherProvider" />
+
     </application>
 
 </manifest>
